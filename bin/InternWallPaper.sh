@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Path to your wallpaper folder - Change this to your actual folder!
-DIR="/usr/local/share"
+DIR="/usr/local/share/WallpapersAssets"
 
 # Pick a random file and apply it with swww
 PICS=$(find "$DIR" -type f \( -name "*.jpg" -o -name "*.jpeg" -o -name "*.png" -o -name "*.gif" \))

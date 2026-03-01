@@ -2,7 +2,7 @@
 
 # Move the files
 sudo cp bin/InternWallPaper.sh /usr/local/bin
-sudo cp -r Wallpapers /usr/local/share
+sudo cp -r WallpapersAssets /usr/local/share
 
 # Make the script executable
 sudo chmod +x /usr/local/bin/InternWallPaper
