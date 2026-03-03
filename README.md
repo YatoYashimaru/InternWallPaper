@@ -1,9 +1,8 @@
 # InternWallPaper <br>
-# Project by YatoYashimaru <br>
+## Project by YatoYashimaru 
 
 ### Required to Install
 - swww
-
 ### Install
 
 ```bash
