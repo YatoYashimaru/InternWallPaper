@@ -9,5 +9,5 @@
 ```bash
  git clone https://github.com/YatoYashimaru/InternWallPaper
  cd InternWallPaper
- sudo sh install.sh 
+ sh install.sh 
 ```
