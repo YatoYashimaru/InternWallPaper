@@ -11,5 +11,5 @@ sudo chmod +x /usr/local/bin/InternWallPaper.sh
 
 echo "---------------------------------------"
 echo "InternWallPaper Installation completed"
-echo "swww must installed to be use"
+echo "awww must installed to be use"
 echo "---------------------------------------"

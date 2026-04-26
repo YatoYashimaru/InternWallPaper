@@ -8,5 +8,5 @@ PICS=$(find "$DIR" -type f \( -name "*.jpg" -o -name "*.jpeg" -o -name "*.png" -
 
 RANDOM_PIC=$(echo "$PICS" | shuf -n 1)
 
-swww img "$RANDOM_PIC" --transition-type wave --transition-fps 60
+awww img "$RANDOM_PIC" --transition-type wave --transition-fps 60
 
