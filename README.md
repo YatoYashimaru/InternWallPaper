@@ -2,7 +2,7 @@
 # Project by YatoYashimaru <br>
 
 ### Required to Install
-- swww
+- awww
 
 ### Install
 
